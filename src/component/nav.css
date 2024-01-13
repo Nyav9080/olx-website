@@ -1,0 +1,50 @@
+ .nav{
+    border: 2px solid red; 
+    display: flex;
+     /* margin-left: 50px; */
+} 
+
+.input{
+    border: 1px solid red;
+    width: 1500px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+
+}
+
+.srch{
+    height: 50px;
+    width: 300px;
+}
+ i{
+    position: absolute;
+    /* border: 1px solid red; */
+    margin-top: 15px;
+    margin-left: -30px;
+}
+
+.find{
+    width: 500px;
+    height: 50px;
+}
+
+h1{
+    /* border: 1px solid red; */
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.inp{
+    border-radius: 15px;
+    width: 80px;
+    border-width: 5px;
+    border-color: yellow;
+    position: absolute;
+    margin-top: -15px;
+    
+}
+
